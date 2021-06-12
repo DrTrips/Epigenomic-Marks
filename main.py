@@ -41,3 +41,4 @@ for _i in range(num_of_tests):
     f1.write(res[:-1] + '\n')
     del codes
 f.close()
+f1.close()
